@@ -1,0 +1,1 @@
+print("O dobro desse numero é ",int(input("Digite um numero:"))*2)
